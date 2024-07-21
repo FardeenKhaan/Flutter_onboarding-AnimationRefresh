@@ -1,16 +1,3 @@
-# animation_transition
+# Flutter OnboardingScreens_RefershAnimation
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this Flutter Project first you will see the onboarding screens, the button you see skip or next, if you skip the onboarding screens then pressed the skip button otherwise pressed next and see what the onboarding screen is, and then after onboarding done you see the Screen where the animation refresh been used
